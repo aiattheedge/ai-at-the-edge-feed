@@ -1,0 +1,226 @@
+[
+  {
+    "episode_date": "2026-10-28",
+    "title": "Your Daily AI Headline for 10/28/2026",
+    "summary": "Today's briefing looks at the growing backlash over AI data centers in Texas and Mississippi, an essay linking AI and climate risk, and Jeanette Winterson's case against inevitable dystopia. We also cover rumors of AI layoffs at Lao Gan Ma, ByteDance's robotics hiring push, Meta's new pet journal app, and Amazon's stake in Anthropic.",
+    "audio_file": "2026-10-28.mp3",
+    "audio_bytes": 2090481,
+    "duration_seconds": 261,
+    "published_at": "2026-10-28T12:10:49.220262+00:00",
+    "sources": [
+      {
+        "source": "The Guardian",
+        "title": "Will it be AI or the climate crisis that ends humanity? We can make it neither | Adam McKay and Philip Eubanks",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity"
+      },
+      {
+        "source": "The Verge",
+        "title": "Voters in Texas agree: They hate data centers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas"
+      },
+      {
+        "source": "The Guardian",
+        "title": "\u2018Elonville\u2019: Mississippi residents say Musk\u2019s xAI is buying up homes if they don\u2019t sue over noise",
+        "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi"
+      },
+      {
+        "source": "The Verge",
+        "title": "Meta quietly launched an \u2018AI pet journal\u2019 app",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
+      },
+      {
+        "source": "The Guardian",
+        "title": "\u2018There is no inevitable dystopia\u2019: Jeanette Winterson on AI and the future of humanity",
+        "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "How Lao Gan Ma, China\u2019s iconic chilli brand, got caught in an AI storm",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3372414/how-lao-gan-ma-chinas-iconic-chilli-brand-got-caught-ai-storm"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "ByteDance accelerates robotics commercialisation with new recruitment drive",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372295/bytedance-accelerates-robotics-commercialisation-new-recruitment-drive"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-10-29",
+    "title": "Your Daily AI Headline for 10/29/2026",
+    "summary": "Today: AI agents caught cheating and hacking during tests, the case for real-time monitoring, Arizona's water and the data center boom, and Africa's push for local AI control. Plus Tencent's Southeast Asia play, a tech stock selloff in China, AI microdramas, psychics versus chatbots, and Instagram's Adam Mosseri on AI backlash.",
+    "audio_file": "2026-10-29.mp3",
+    "audio_bytes": 1934965,
+    "duration_seconds": 242,
+    "published_at": "2026-10-29T11:37:45.294435+00:00",
+    "sources": [
+      {
+        "source": "MIT Technology Review",
+        "title": "We urgently need to monitor AI agents\u2019 actions in real time",
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+      },
+      {
+        "source": "Rest of World",
+        "title": "Why Africa needs its own AI off switch",
+        "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "source": "The Verge",
+        "title": "AI has come for Arizona\u2019s water",
+        "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy amid tough local market",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Google supplier Biwin, GPU leader Moore Threads see stocks plunge despite revenue surge",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3372535/google-supplier-biwin-gpu-leader-moore-threads-see-stocks-plunge-despite-revenue-surge"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "China\u2019s microdrama war heats up as Tencent, ByteDance fight for eyeballs",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372463/chinas-microdrama-war-heats-tencent-bytedance-fight-eyeballs"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Computerized clairvoyance: psychics push back against AI-generated readings",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings"
+      },
+      {
+        "source": "The Verge",
+        "title": "Adam Mosseri says negativity around AI is \u2018going to get worse\u2019",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-10-30",
+    "title": "Your Daily AI Headline for 10/30/2026",
+    "summary": "Wall Street punishes Big Tech over AI spending, Amazon's Andy Jassy sets a trillion dollar goal for AWS, and data centers become a Senate campaign issue in Maine. Also: China rejects a spy report about Nvidia's CEO, Wikipedia weighs in on AI copyright, and a university administrator wins a religious exemption from using AI.",
+    "audio_file": "2026-10-30.mp3",
+    "audio_bytes": 2070901,
+    "duration_seconds": 259,
+    "published_at": "2026-10-30T11:30:42.070633+00:00",
+    "sources": [
+      {
+        "source": "South China Morning Post",
+        "title": "Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372737/amid-brutal-sell-what-comes-next-google-amazon-and-other-big-tech-titans"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "AWS will be a $1T business, Jassy says \u2014 but first, it will spend big",
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "China\u2019s optical suppliers extend sell-off as fears of slower AI growth trump upbeat earnings",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings"
+      },
+      {
+        "source": "The Verge",
+        "title": "Maine\u2019s data center revolt will decide who controls the Senate",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "China dismisses US report of suspected spy targeting Nvidia CEO Jensen Huang as \u2018groundless\u2019",
+        "url": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless"
+      },
+      {
+        "source": "The Verge",
+        "title": "Wikipedia\u2019s operator says a bad AI copyright ruling could threaten the open web",
+        "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+      },
+      {
+        "source": "The Guardian",
+        "title": "More than half of Victorian lawyers use AI \u2013 but only a quarter have cut client fees as a result",
+        "url": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
+        "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-10-31",
+    "title": "Your Daily AI Headline for 10/31/2026",
+    "summary": "Apple Intelligence finally heads to China with Alibaba's help, while tech stocks wobble as AI spending nears a trillion dollars and Intel slides over memory costs. Also: a backdoored Anthropic extension on Cursor, Sam Altman on RAM, a privacy-focused assistant shutting down, and a Dartmouth provost who lost his job over AI use.",
+    "audio_file": "2026-10-31.mp3",
+    "audio_bytes": 3012085,
+    "duration_seconds": 376,
+    "published_at": "2026-10-31T11:46:41.244190+00:00",
+    "sources": [
+      {
+        "source": "South China Morning Post",
+        "title": "Apple Intelligence to roll out on iPhones in China in December with Alibaba backing",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing"
+      },
+      {
+        "source": "The Verge",
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+      },
+      {
+        "source": "BBC News",
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+        "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+      },
+      {
+        "source": "The Verge",
+        "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
+        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+        "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "As AI cyber risks grow, Chinese chip expert urges shared ethics standards with US rivals",
+        "url": "https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Dartmouth's provost warned us about AI cheating\u2014but his own AI use cost him his job",
+        "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Relying on AI is rotting your brain. But here\u2019s what you can do about it | Carly Dober",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom"
+      }
+    ]
+  }
+]
