@@ -1,0 +1,1190 @@
+[
+  {
+    "episode_date": "2026-10-28",
+    "title": "Your Daily AI Headline for 10/28/2026",
+    "summary": "Today's briefing looks at the growing backlash over AI data centers in Texas and Mississippi, an essay linking AI and climate risk, and Jeanette Winterson's case against inevitable dystopia. We also cover rumors of AI layoffs at Lao Gan Ma, ByteDance's robotics hiring push, Meta's new pet journal app, and Amazon's stake in Anthropic.",
+    "audio_file": "2026-10-28.mp3",
+    "audio_bytes": 2090481,
+    "duration_seconds": 261,
+    "published_at": "2026-10-28T12:10:49.220262+00:00",
+    "sources": [
+      {
+        "source": "The Guardian",
+        "title": "Will it be AI or the climate crisis that ends humanity? We can make it neither | Adam McKay and Philip Eubanks",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity"
+      },
+      {
+        "source": "The Verge",
+        "title": "Voters in Texas agree: They hate data centers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas"
+      },
+      {
+        "source": "The Guardian",
+        "title": "\u2018Elonville\u2019: Mississippi residents say Musk\u2019s xAI is buying up homes if they don\u2019t sue over noise",
+        "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi"
+      },
+      {
+        "source": "The Verge",
+        "title": "Meta quietly launched an \u2018AI pet journal\u2019 app",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
+      },
+      {
+        "source": "The Guardian",
+        "title": "\u2018There is no inevitable dystopia\u2019: Jeanette Winterson on AI and the future of humanity",
+        "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "How Lao Gan Ma, China\u2019s iconic chilli brand, got caught in an AI storm",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3372414/how-lao-gan-ma-chinas-iconic-chilli-brand-got-caught-ai-storm"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "ByteDance accelerates robotics commercialisation with new recruitment drive",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372295/bytedance-accelerates-robotics-commercialisation-new-recruitment-drive"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-10-29",
+    "title": "Your Daily AI Headline for 10/29/2026",
+    "summary": "Today: AI agents caught cheating and hacking during tests, the case for real-time monitoring, Arizona's water and the data center boom, and Africa's push for local AI control. Plus Tencent's Southeast Asia play, a tech stock selloff in China, AI microdramas, psychics versus chatbots, and Instagram's Adam Mosseri on AI backlash.",
+    "audio_file": "2026-10-29.mp3",
+    "audio_bytes": 1934965,
+    "duration_seconds": 242,
+    "published_at": "2026-10-29T11:37:45.294435+00:00",
+    "sources": [
+      {
+        "source": "MIT Technology Review",
+        "title": "We urgently need to monitor AI agents\u2019 actions in real time",
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+      },
+      {
+        "source": "Rest of World",
+        "title": "Why Africa needs its own AI off switch",
+        "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "source": "The Verge",
+        "title": "AI has come for Arizona\u2019s water",
+        "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy amid tough local market",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Google supplier Biwin, GPU leader Moore Threads see stocks plunge despite revenue surge",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3372535/google-supplier-biwin-gpu-leader-moore-threads-see-stocks-plunge-despite-revenue-surge"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "China\u2019s microdrama war heats up as Tencent, ByteDance fight for eyeballs",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372463/chinas-microdrama-war-heats-tencent-bytedance-fight-eyeballs"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Computerized clairvoyance: psychics push back against AI-generated readings",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings"
+      },
+      {
+        "source": "The Verge",
+        "title": "Adam Mosseri says negativity around AI is \u2018going to get worse\u2019",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-10-30",
+    "title": "Your Daily AI Headline for 10/30/2026",
+    "summary": "Wall Street punishes Big Tech over AI spending, Amazon's Andy Jassy sets a trillion dollar goal for AWS, and data centers become a Senate campaign issue in Maine. Also: China rejects a spy report about Nvidia's CEO, Wikipedia weighs in on AI copyright, and a university administrator wins a religious exemption from using AI.",
+    "audio_file": "2026-10-30.mp3",
+    "audio_bytes": 2070901,
+    "duration_seconds": 259,
+    "published_at": "2026-10-30T11:30:42.070633+00:00",
+    "sources": [
+      {
+        "source": "South China Morning Post",
+        "title": "Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372737/amid-brutal-sell-what-comes-next-google-amazon-and-other-big-tech-titans"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "AWS will be a $1T business, Jassy says \u2014 but first, it will spend big",
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "China\u2019s optical suppliers extend sell-off as fears of slower AI growth trump upbeat earnings",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings"
+      },
+      {
+        "source": "The Verge",
+        "title": "Maine\u2019s data center revolt will decide who controls the Senate",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "China dismisses US report of suspected spy targeting Nvidia CEO Jensen Huang as \u2018groundless\u2019",
+        "url": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless"
+      },
+      {
+        "source": "The Verge",
+        "title": "Wikipedia\u2019s operator says a bad AI copyright ruling could threaten the open web",
+        "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+      },
+      {
+        "source": "The Guardian",
+        "title": "More than half of Victorian lawyers use AI \u2013 but only a quarter have cut client fees as a result",
+        "url": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
+        "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-10-31",
+    "title": "Your Daily AI Headline for 10/31/2026",
+    "summary": "Apple Intelligence finally heads to China with Alibaba's help, while tech stocks wobble as AI spending nears a trillion dollars and Intel slides over memory costs. Also: a backdoored Anthropic extension on Cursor, Sam Altman on RAM, a privacy-focused assistant shutting down, and a Dartmouth provost who lost his job over AI use.",
+    "audio_file": "2026-10-31.mp3",
+    "audio_bytes": 3012085,
+    "duration_seconds": 376,
+    "published_at": "2026-10-31T11:46:41.244190+00:00",
+    "sources": [
+      {
+        "source": "South China Morning Post",
+        "title": "Apple Intelligence to roll out on iPhones in China in December with Alibaba backing",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing"
+      },
+      {
+        "source": "The Verge",
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+      },
+      {
+        "source": "BBC News",
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+        "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+      },
+      {
+        "source": "The Verge",
+        "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
+        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+        "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "As AI cyber risks grow, Chinese chip expert urges shared ethics standards with US rivals",
+        "url": "https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Dartmouth's provost warned us about AI cheating\u2014but his own AI use cost him his job",
+        "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Relying on AI is rotting your brain. But here\u2019s what you can do about it | Carly Dober",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-01",
+    "title": "Your Daily AI Headline for 11/01/2026",
+    "summary": "DeepSeek previews a more autonomous coding agent, fears grow over debt-laden data centre firms, and Apple's new chief explains his cautious AI stance. Plus a court ruling on xAI pollution, Australian artists fighting a copyright plan, and chatbots moving into dating.",
+    "audio_file": "2026-11-01.mp3",
+    "audio_bytes": 3413941,
+    "duration_seconds": 427,
+    "published_at": "2026-11-01T11:19:31.996335+00:00",
+    "sources": [
+      {
+        "source": "South China Morning Post",
+        "title": "DeepSeek unveils AI \u2018super agent\u2019 in coding race with OpenAI, Anthropic",
+        "url": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution"
+      },
+      {
+        "source": "BBC News",
+        "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+        "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Disquiet grows in Albanese\u2019s back yard as Grayndler artists unite against \u2018insane\u2019 AI proposal",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west"
+      },
+      {
+        "source": "The Verge",
+        "title": "I built an AI Tamagotchi before Meta could",
+        "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+      },
+      {
+        "source": "The Guardian",
+        "title": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
+        "url": "https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "SI is the future of AI \u2013 just not in the way Trump thinks",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3372415/si-future-ai-just-not-way-trump-thinks"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Is AI your new wingman? How chatbots are transforming dating",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-02",
+    "title": "Your Daily AI Headline for 11/02/2026",
+    "summary": "Today on AI At The Edge: why counting tokens may be the wrong way to judge AI coding agents, the return of the agentic web, and Ryanair eyeing AI as it weighs cost cuts. We also cover Palantir in the NHS, Chinese models reworked for Western firms, and AI moves in China, Hong Kong, South Korea, India and Germany, plus OpenAI's possible rebrand of its data centers.",
+    "audio_file": "2026-11-02.mp3",
+    "audio_bytes": 5372149,
+    "duration_seconds": 671,
+    "published_at": "2026-11-02T13:50:16.345275+00:00",
+    "sources": [
+      {
+        "source": "MIT Technology Review",
+        "title": "Stop counting tokens, start counting what ships",
+        "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+      },
+      {
+        "source": "MIT Technology Review",
+        "title": "The agentic web is here",
+        "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
+        "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it",
+        "url": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts"
+      },
+      {
+        "source": "Rest of World",
+        "title": "Startups recalibrate Chinese AI for the West",
+        "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "China touts AI milestone: models generate more tokens than used in training",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372961/china-touts-ai-milestone-running-models-now-uses-more-data-training-them"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "How Hong Kong\u2019s fintech strategy is progressing \u2013 and where growth still lags",
+        "url": "https://www.scmp.com/business/banking-finance/article/3372968/how-hong-kongs-fintech-strategy-progressing-and-where-growth-still-lags"
+      },
+      {
+        "source": "DW",
+        "title": "South Korea to pour billions into AI",
+        "url": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-xml-mrss"
+      },
+      {
+        "source": "The Register",
+        "title": "India floats AI plan under which \u2018The model travels to the data, rather than the data travelling to the model\u2019",
+        "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872"
+      },
+      {
+        "source": "DW",
+        "title": "Germany news: Berlin hosts digital summit with AI focus",
+        "url": "https://www.dw.com/en/germany-news-berlin-hosts-digital-summit-with-ai-focus/live-79825749?maca=en-rss-en-all-1573-xml-mrss"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-03",
+    "title": "Your Daily AI Headline for 11/03/2026",
+    "summary": "Anthropic's IPO filing exposes a profit gap with Chinese rivals, Alibaba's Joe Tsai argues for open source, and the Drax power plant could host Britain's largest AI datacentre. Also: AI bonds and European borrowing costs, a prosecutor's imaginary case, a UK warning on AI-powered malware, and new Apple and Google AI features.",
+    "audio_file": "2026-11-03.mp3",
+    "audio_bytes": 5218741,
+    "duration_seconds": 652,
+    "published_at": "2026-11-03T12:53:33.033156+00:00",
+    "sources": [
+      {
+        "source": "South China Morning Post",
+        "title": "Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic\u2019s profit margin",
+        "url": "https://www.scmp.com/tech/big-tech/article/3373124/why-chinese-ai-stars-zai-minimax-struggle-match-anthropics-profit-margin"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Alibaba\u2019s Joe Tsai champions open-source AI at Wuzhen Summit amid US pushback",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3373155/alibabas-joe-tsai-champions-open-source-ai-wuzhen-summit-amid-us-pushback"
+      },
+      {
+        "source": "The Guardian",
+        "title": "UK\u2019s most polluting power plant could power country\u2019s largest AI datacentre",
+        "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre"
+      },
+      {
+        "source": "DW",
+        "title": "How AI giants could raise the cost of borrowing in Europe",
+        "url": "https://www.dw.com/en/how-ai-giants-could-raise-the-cost-of-borrowing-in-europe/a-79511985?maca=en-rss-en-all-1573-xml-mrss"
+      },
+      {
+        "source": "The Guardian",
+        "title": "\u2018A serious failure\u2019: CPS prosecutor cites imaginary case to high court after AI search",
+        "url": "https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search"
+      },
+      {
+        "source": "The Guardian",
+        "title": "AI-powered malware \u2018highly likely\u2019 to be used to hack UK infrastructure by 2028",
+        "url": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure"
+      },
+      {
+        "source": "MIT Technology Review",
+        "title": "How \u201creverse game theory\u201d could keep AI agents in check",
+        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+      },
+      {
+        "source": "MIT Technology Review",
+        "title": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
+        "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Apple Watch\u2019s AI features for rewinding and recapping conversations begin beta testing",
+        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+        "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "SCMP Plus\u2019 fireside chat about AI with Professor Alan Macfarlane",
+        "url": "https://www.scmp.com/plus/tech/tech-trends/article/3373080/scmp-plus-fireside-chat-about-ai-professor-alan-macfarlane"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-04",
+    "title": "Your Daily AI Headline for 11/04/2026",
+    "summary": "DeepSeek defends open-source AI aimed at AGI, Tencent launches Hy4, and Google struggles to make AI pay like search. Also: OpenAI and Anthropic's election war rooms, Anthropic's FlashProve, Canva layoffs, graduates managing AI, robot dogs, fake puppies, and Nexus Mods' AI disclosure rule.",
+    "audio_file": "2026-11-04.mp3",
+    "audio_bytes": 5192821,
+    "duration_seconds": 649,
+    "published_at": "2026-11-04T13:06:27.734643+00:00",
+    "sources": [
+      {
+        "source": "South China Morning Post",
+        "title": "DeepSeek engineer defends push for open-source AI smarter than humans despite higher risks",
+        "url": "https://www.scmp.com/tech/big-tech/article/3373262/deepseek-engineer-defends-push-open-source-ai-smarter-humans-despite-higher-risks"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up",
+        "url": "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Wingtech rejects Nexperia restructuring, cites \u2018discrimination\u2019 towards Chinese investors",
+        "url": "https://www.scmp.com/tech/tech-war/article/3373244/wingtech-rejects-nexperia-restructuring-cites-discrimination-towards-chinese-investors"
+      },
+      {
+        "source": "The Verge",
+        "title": "Google hasn\u2019t figured out how to make AI pay like its search engine",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
+      },
+      {
+        "source": "The Verge",
+        "title": "Please stop asking me when the AI bubble will pop",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
+      },
+      {
+        "source": "The New York Times",
+        "title": "OpenAI and Anthropic Set Up \u2018War Rooms\u2019 to Fight Disinfo About Midterm Elections",
+        "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Anthropic is working on a system to prove AI models\u2019 identity",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+      },
+      {
+        "source": "BBC News",
+        "title": "Graduates are managing AI - but are they learning much else?",
+        "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Very good boys? The dark, dystopian rise of robot dogs | Arwa Mahwadi",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/04/robot-dogs-ice-dimensional-warhound"
+      },
+      {
+        "source": "The New York Times",
+        "title": "WeRateDogs Loves All Dogs. A.I. Puppies Are Another Story.",
+        "url": "https://www.nytimes.com/2026/11/04/style/we-rate-dogs-ai.html"
+      },
+      {
+        "source": "The Verge",
+        "title": "The biggest modding site in PC gaming is taking a stance on AI",
+        "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-05",
+    "title": "Your Daily AI Headline for 11/05/2026",
+    "summary": "Tech takes a beating at the polls, with Elon Musk's political spending drawing a poor return and Texas politics shifting under big business. We also cover Agility Robotics going public, Unitree's robot claims, China blocking SoftBank's ABB robotics deal, Big Tech's AI spending, protests against datacentres in Europe, a Micron strike in Taiwan, a profile of Anthropic's Dario Amodei, and a startup offering prizes for materials breakthroughs.",
+    "audio_file": "2026-11-05.mp3",
+    "audio_bytes": 4714741,
+    "duration_seconds": 589,
+    "published_at": "2026-11-05T13:16:35.427909+00:00",
+    "sources": [
+      {
+        "source": "TechCrunch",
+        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+        "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+      },
+      {
+        "source": "The New York Times",
+        "title": "The Texas-size Political Tremor Rattling Big Business",
+        "url": "https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Elon Musk\u2019s Very Bad Night",
+        "url": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html"
+      },
+      {
+        "source": "The New York Times",
+        "title": "What Shaped Anthropic CEO Dario Amodei\u2019s Thinking on A.I.",
+        "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+        "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Was Elon Musk the US midterms' biggest loser? \u2013 Stateside with Kai and Carter",
+        "url": "https://www.theguardian.com/us-news/video/2026/nov/05/was-elon-musk-the-us-midterms-biggest-loser-stateside-with-kai-and-carter"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Powered by GPT-6, Unitree humanoid robots master painting, chess without training, says CEO",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo"
+      },
+      {
+        "source": "Rest of World",
+        "title": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
+        "url": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "source": "The Verge",
+        "title": "Big Tech\u2019s big AI buildout will not end until someone stops it",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "China blocks SoftBank\u2019s US$5.4 billion takeover of ABB\u2019s robotics division",
+        "url": "https://www.scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Activists across Europe prepare two days of protests against datacentres",
+        "url": "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-06",
+    "title": "Your Daily AI Headline for 11/06/2026",
+    "summary": "Global markets sold off as investors worried about tougher scrutiny of AI and data centers after the US midterms. Also: Microsoft buyouts and a data center protest in Amsterdam, a UN fight over autonomous weapons, AI cheating on the SAT, China's AI chipmakers, and a humanoid robot cleaner.",
+    "audio_file": "2026-11-06.mp3",
+    "audio_bytes": 4445941,
+    "duration_seconds": 556,
+    "published_at": "2026-11-06T13:01:48.727066+00:00",
+    "sources": [
+      {
+        "source": "The Guardian",
+        "title": "Global stocks tumble as AI panic grips markets after Democrats\u2019 midterm success \u2013 business live",
+        "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+      },
+      {
+        "source": "BBC News",
+        "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "DW",
+        "title": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
+        "url": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-xml-mrss"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "AI bubble bursts, fifth plenum resolution, Singles\u2019 Day",
+        "url": "https://www.scmp.com/plus/business/markets/article/3373548/ai-bubble-bursts-fifth-plenum-resolution-singles-day"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Why the Tech Right Lost Big This Week",
+        "url": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Microsoft\u2019s Buyout Offer Sets Its Workforce on Edge",
+        "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html"
+      },
+      {
+        "source": "The Verge",
+        "title": "Protesters break into Microsoft data center site in Amsterdam",
+        "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
+        "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules"
+      },
+      {
+        "source": "The New York Times",
+        "title": "How the College Board Is Fighting A.I. Cheating on the SAT Tests",
+        "url": "https://www.nytimes.com/2026/11/06/us/college-board-cheating-sat.html"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Nigel Farage's exit from the Telegraph may be cause for cheer. But there\u2019s a sobering side to this story | Jane Martinson",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "China\u2019s AI chipmakers report first profits, but will the trend continue?",
+        "url": "https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue"
+      },
+      {
+        "source": "MIT Technology Review",
+        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-07",
+    "title": "Your Daily AI Headline for 11/07/2026",
+    "summary": "OpenAI is reportedly valued at 1.25 trillion dollars after a fresh 11 billion dollar raise, while Anthropic nears an IPO and AI stocks bounce back. We also cover questions about US-approved Nvidia chip sales to Chinese firms, a reported Chinese spying effort, data center trouble from Wyoming to Scotland to Thailand, and a chatbot taking on a mother's complaints.",
+    "audio_file": "2026-11-07.mp3",
+    "audio_bytes": 5504053,
+    "duration_seconds": 688,
+    "published_at": "2026-11-07T11:45:58.473153+00:00",
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Can I Have an A.I. Chatbot Field My Mother\u2019s Endless Complaints?",
+        "url": "https://www.nytimes.com/2026/11/07/magazine/chatbot-elderly-mother-ethics.html"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Steve Jones on dangerous tech innovations \u2013 cartoon",
+        "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire"
+      },
+      {
+        "source": "The New York Times",
+        "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+        "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy"
+      },
+      {
+        "source": "The Guardian",
+        "title": "The datacentre arms race hits pause in south-east Asia",
+        "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+      },
+      {
+        "source": "The Verge",
+        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+      },
+      {
+        "source": "The Verge",
+        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+        "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      },
+      {
+        "source": "BBC News",
+        "title": "AI stocks climb after trillions wiped from market values",
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "The Verge",
+        "title": "All the latest updates on AI data centers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-08",
+    "title": "Your Daily AI Headline for 11/08/2026",
+    "summary": "Today's briefing covers a Tencent AI chief's warning about AI and biology, a wave of hacking incidents, a flood of chatbot-written complaints in the UK, and new questions over who is getting Nvidia chips in China. We also look at the politics of AI after the midterms, humanoid robots, Sony's anime push and an AI cooking assistant.",
+    "audio_file": "2026-11-08.mp3",
+    "audio_bytes": 4962613,
+    "duration_seconds": 620,
+    "published_at": "2026-11-08T12:01:09.294374+00:00",
+    "sources": [
+      {
+        "source": "South China Morning Post",
+        "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+        "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns"
+      },
+      {
+        "source": "The New York Times",
+        "title": "The World Can\u2019t Get Enough Anime. Can Japan Cash In on Its Success?",
+        "url": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "China\u2019s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3373641/chinas-pudu-robotics-which-makes-80-its-sales-abroad-takes-tesla-humanoids"
+      },
+      {
+        "source": "The Guardian",
+        "title": "\u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints",
+        "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic"
+      },
+      {
+        "source": "The New York Times",
+        "title": "We Just Had an Anti-Slop Election",
+        "url": "https://www.nytimes.com/2026/11/07/opinion/midterms-tech-economy.html"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+      },
+      {
+        "source": "The Verge",
+        "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
+        "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
+      },
+      {
+        "source": "The Verge",
+        "title": "The US let Nvidia sell chips to an empty office in China",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-09",
+    "title": "Your Daily AI Headline for 11/09/2026",
+    "summary": "Nvidia's board is investigating CEO Jensen Huang over his relationship with a woman U.S. officials say worked for Chinese intelligence, and analysts weigh what it means for the company, the chip trade and the AI race. Also: China's industrial AI push, DeepSeek's agent growth, the fight for Silicon Valley talent, two Guardian opinion pieces on AI politics and risk, and AI in specialty chemicals.",
+    "audio_file": "2026-11-09.mp3",
+    "audio_bytes": 4520245,
+    "duration_seconds": 565,
+    "published_at": "2026-11-09T13:57:26.302069+00:00",
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "What to Know About Nvidia\u2019s Investigation of Its C.E.O.",
+        "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html"
+      },
+      {
+        "source": "The New York Times",
+        "title": "How Indispensable Is Jensen Huang?",
+        "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Nvidia Opens Investigation Into Jensen Huang\u2019s Relationship With Chinese Spy",
+        "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Nvidia fallout: chipmaker faces extensive risks after CEO affair, analysts and lawyers say",
+        "url": "https://www.scmp.com/tech/tech-war/article/3373820/nvidia-fallout-chipmaker-faces-extensive-risks-after-ceo-affair-analysts-and-lawyers-say"
+      },
+      {
+        "source": "DW",
+        "title": "Why Nvidia CEO's affair with alleged Chinese spy matters",
+        "url": "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-xml-mrss"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Beyond LLMs? China forges new path for AI with focus on industrial systems",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3373822/beyond-llms-china-forges-new-path-ai-focus-industrial-systems"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
+        "url": "https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes"
+      },
+      {
+        "source": "Rest of World",
+        "title": "Chinese AI firms want Silicon Valley\u2019s top minds. Poaching them won\u2019t be easy",
+        "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Anti-AI populism is the future of American politics | Garrison Lovely",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/07/anti-ai-populism-is-the-future-of-american-politics"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Today\u2019s AI won\u2019t achieve superintelligence. But catastrophic risk is real | Sunita Verma",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk"
+      },
+      {
+        "source": "MIT Technology Review",
+        "title": "Innovating with AI in the special chemicals industry",
+        "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-10",
+    "title": "Your Daily AI Headline for 11/10/2026",
+    "summary": "Nvidia is engulfed in a scandal around CEO Jensen Huang, with fresh questions about its board and a push in Congress for tougher China export controls. Anthropic sets terms for a huge stock market listing, plus open-source AI security, Ukraine's drone supply squeeze, Hollywood storyboard artists, ChatGPT's Teen Mode and AI-fueled disinformation after the Krakow attack.",
+    "audio_file": "2026-11-10.mp3",
+    "audio_bytes": 5292853,
+    "duration_seconds": 662,
+    "published_at": "2026-11-10T13:35:30.655042+00:00",
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Nvidia\u2019s Game of Thrones",
+        "url": "https://www.nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html"
+      },
+      {
+        "source": "BBC News",
+        "title": "Anthropic to raise $64bn in major stock market listing",
+        "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Nvidia\u2019s Board Has a History of Letting Jensen Huang Get His Way",
+        "url": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+        "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
+      },
+      {
+        "source": "The Guardian",
+        "title": "\u2018Without storyboards, I feel like I\u2019m in Grand Central station in my underwear\u2019: film\u2019s fightback against AI",
+        "url": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+        "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Ukraine\u2019s fiber-optic drones get squeezed by AI data center demand",
+        "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "US lawmakers push for tougher China export controls in defence bill amid Nvidia scrutiny",
+        "url": "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny"
+      },
+      {
+        "source": "The Guardian",
+        "title": "ChatGPT\u2019s Teen Mode could deprive teenagers of a fundamental need | Robin Kirman",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Who is Alice Huang and why is her relationship with Nvidia\u2019s CEO under scrutiny?",
+        "url": "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny"
+      },
+      {
+        "source": "DW",
+        "title": "Fact check: Online disinformation rife after Krakow mass shooting",
+        "url": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-all-1573-xml-mrss"
+      },
+      {
+        "source": "BBC News",
+        "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-11",
+    "title": "Your Daily AI Headline for 11/11/2026",
+    "summary": "Today: AI datacentres plan huge on-site gas power stations, Nvidia's governance crisis and the Jensen Huang affair, Alibaba's T-Head chip IPO, why AI agents are hard to train, trouble for universities and an Indian library, AI in Argentine and New York politics, and AI-fuelled abuse of women online.",
+    "audio_file": "2026-11-11.mp3",
+    "audio_bytes": 4876981,
+    "duration_seconds": 610,
+    "published_at": "2026-11-11T12:48:02.932759+00:00",
+    "sources": [
+      {
+        "source": "The Guardian",
+        "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+        "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Nvidia\u2019s crisis has corporate governance experts reaching for the popcorn",
+        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Nvidia CEO Jensen Huang\u2019s affair: everything you need to know",
+        "url": "https://www.scmp.com/news/article/3374047/nvidia-ceo-jensen-huangs-affair-everything-you-need-know"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Amid Nvidia saga, T-Head IPO a crucial test for Alibaba \u2013 and China\u2019s AI ambitions",
+        "url": "https://www.scmp.com/tech/big-tech/article/3374090/amid-nvidia-saga-t-head-ipo-crucial-test-alibaba-and-chinas-ai-ambitions"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Alibaba readies T-Head chip IPO as Hong Kong frenzy cools",
+        "url": "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
+        "url": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html"
+      },
+      {
+        "source": "The Guardian",
+        "title": "AI has made it \u2018close to impossible\u2019 to assess university coursework, regulator says",
+        "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator"
+      },
+      {
+        "source": "BBC News",
+        "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+        "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "The New York Times",
+        "title": "From Argentina, a Warning to America\u2019s Tech Right",
+        "url": "https://www.nytimes.com/2026/11/11/opinion/argentina-milei-ai-musk.html"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Unions to Press on A.I. Threat in Mamdani\u2019s First Labor Talks as Mayor",
+        "url": "https://www.nytimes.com/2026/11/11/nyregion/mamdani-dc37-contract-union.html"
+      },
+      {
+        "source": "DW",
+        "title": "How AI worsens online violence against Middle East women",
+        "url": "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-xml-mrss"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Australians are not streaming Australian music. Why the hell not?! | First Dog on the Moon",
+        "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/11/australians-are-not-streaming-australian-music-why-the-hell-not"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-12",
+    "title": "Your Daily AI Headline for 11/12/2026",
+    "summary": "Nvidia's board is reportedly weighing the future of chief executive Jensen Huang, rattling markets and raising questions about succession and tech power. Also: AI's boost to the UK economy, a prize-winning author cleared of using AI, a new drug-discovery model, Korean startups eyeing the US, and a book on AI in government.\n\nThis episode is read by an AI-generated clone of the show creator's voice, from a script written by Claude.",
+    "audio_file": "2026-11-12.mp3",
+    "audio_bytes": 5240970,
+    "duration_seconds": 655,
+    "published_at": "2026-11-12T13:48:24.677716+00:00",
+    "sources": [
+      {
+        "source": "TechCrunch",
+        "title": "Nine Korean startups vie for a spot in Disrupt 2027\u2019s Startup Battlefield 200 competition",
+        "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
+        "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+        "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story"
+      },
+      {
+        "source": "The Guardian",
+        "title": "AI helped UK defy expectations \u2013 but will economy\u2019s resilience fizzle out?",
+        "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Nvidia Shares Plummet as Board Considers Jensen Huang\u2019s Future as CEO",
+        "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "If Jensen Huang exits Nvidia, who could take the US$4 trillion chipmaker\u2019s reins?",
+        "url": "https://www.scmp.com/tech/article/3374235/if-jensen-huang-exits-nvidia-who-could-take-us4tr-chipmakers-reins"
+      },
+      {
+        "source": "BBC News",
+        "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Billions lost and markets roiled by one man\u2019s indiscretion. Isn\u2019t it now clear that these tech bros are too powerful? | Aditya Chakrabortty",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia"
+      },
+      {
+        "source": "The New York Times",
+        "title": "What Jensen Huang\u2019s Potential Ouster Could Mean for A.I.",
+        "url": "https://www.nytimes.com/2026/11/12/podcasts/the-daily/jensen-huang-nvidia-affairs.html"
+      },
+      {
+        "source": "Rest of World",
+        "title": "The promise and peril of AI in government",
+        "url": "https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Loyalty vs accountability: a look at the Nvidia board deciding CEO Jensen Huang\u2019s fate",
+        "url": "https://www.scmp.com/tech/big-tech/article/3374203/loyalty-vs-accountability-look-nvidia-board-deciding-ceo-jensen-huangs-fate"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Former ByteDance AI scientist touts drug-discovery model that tops world leaders",
+        "url": "https://www.scmp.com/business/companies/article/3374201/former-bytedance-ai-scientist-touts-drug-discovery-model-tops-world-leaders"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-13",
+    "title": "Your Daily AI Headline for 11/13/2026",
+    "summary": "Jensen Huang's sudden resignation from Nvidia dominates the news, with fallout for chip supply chains, US-China tensions, Israel's startups and the White House. Also: markets shrug off the turmoil, doubts over Anthropic's IPO, a Microsoft outage, and the EU's first AI summit.\n\nThis episode is read by an AI-generated clone of the show creator's voice, from a script written by Claude.",
+    "audio_file": "2026-11-13.mp3",
+    "audio_bytes": 5077966,
+    "duration_seconds": 635,
+    "published_at": "2026-11-13T13:05:02.904331+00:00",
+    "sources": [
+      {
+        "source": "South China Morning Post",
+        "title": "China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts",
+        "url": "https://www.scmp.com/economy/global-economy/article/3374328/china-could-tighten-rare-earths-exports-if-us-escalates-chip-curbs-over-nvidia-analysts"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+        "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Jensen Huang\u2019s Fall Costs Asia an A.I. Ambassador to the U.S.",
+        "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
+      },
+      {
+        "source": "DW",
+        "title": "Is the AI bubble bursting just as Anthropic goes public?",
+        "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-xml-mrss"
+      },
+      {
+        "source": "BBC News",
+        "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+        "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "The Verge",
+        "title": "Let\u2019s talk about Jensen Huang\u2019s many affairs!",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
+      },
+      {
+        "source": "BBC News",
+        "title": "What we know so far about the Microsoft outage",
+        "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Looking Past Nvidia Turmoil, Stocks Log Best Week in Months",
+        "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html"
+      },
+      {
+        "source": "South China Morning Post",
+        "title": "Jensen Huang\u2019s exit tests Nvidia\u2019s supply chain clout, ability to bankroll AI buildout",
+        "url": "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout"
+      },
+      {
+        "source": "DW",
+        "title": "EU leaders gather for first ever AI summit",
+        "url": "https://www.dw.com/en/eu-leaders-gather-for-first-ever-ai-summit/a-79937463?maca=en-rss-en-all-1573-xml-mrss"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Nvidia Lost Its Founding C.E.O. Can It Keep Its Momentum?",
+        "url": "https://www.nytimes.com/2026/11/13/technology/nvidia-lost-its-founding-ceo-can-it-keep-its-momentum.html"
+      }
+    ]
+  },
+  {
+    "episode_date": "2026-11-14",
+    "title": "Your Daily AI Headline for 11/14/2026",
+    "summary": "Nvidia's Jensen Huang departs, raising worries about AI startup funding and sparking a wave of commentary on Silicon Valley. Also: a tech summit in China, Amazon's plan to catalogue the world's products, a Microsoft outage, AI accusations in publishing, Nigeria's election worries, landslide warnings and young job seekers.\n\nThe Big Picture: From AI Bubble Fears to Founder Risk.\n\nThis episode is read by a synthetic AI voice, from a script written by Claude.",
+    "audio_file": "2026-11-14.mp3",
+    "audio_bytes": 6346933,
+    "duration_seconds": 793,
+    "published_at": "2026-11-14T14:05:43.764753+00:00",
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "5 Big Questions as C.E.O.s Meet in China",
+        "url": "https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Jensen Huang\u2019s Fall Is a Dark Consequence of What\u2019s Happening in Silicon Valley",
+        "url": "https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Goodbye, Mr. Chips",
+        "url": "https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html"
+      },
+      {
+        "source": "The Verge",
+        "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+        "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+      },
+      {
+        "source": "The Guardian",
+        "title": "\u2018The social contract is broken\u2019: young people on feeling shut out of careers",
+        "url": "https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai"
+      },
+      {
+        "source": "The Guardian",
+        "title": "\u2018It\u2019s like the wild west\u2019: how AI has rocked the literary world",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world"
+      },
+      {
+        "source": "DW",
+        "title": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
+        "url": "https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-xml-mrss"
+      },
+      {
+        "source": "BBC News",
+        "title": "Microsoft says services fully restored after day-long global outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "BBC News",
+        "title": "Tech Now",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "The Verge",
+        "title": "Amazon has a plan to index the world\u2019s online shopping data",
+        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+      }
+    ]
+  }
+]
