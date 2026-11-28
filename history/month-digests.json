@@ -1,0 +1,14 @@
+[
+  {
+    "month": "2026-10",
+    "summary": "The notes cover only October 28-31, so this reflects the month's closing days rather than the whole month. Two threads dominated. First, local backlash against AI data centers grew: voter hostility in Texas, xAI's alleged home buying near its Mississippi site, Arizona water worries, and Maine's data center revolt as a Senate campaign issue. Second, markets turned anxious about AI spending. Big Tech was punished in a sell-off, spending neared $1tn, Intel's stock crashed, and Chinese optical, chip and GPU names fell despite strong earnings. Amazon's Andy Jassy still set a $1T goal for AWS, and Amazon's Anthropic stake was set to pay off in an IPO. Elsewhere, Apple Intelligence was set to reach China in December with Alibaba's backing, Tencent pushed its WorkBuddy agent into Southeast Asia, and ByteDance expanded its robotics hiring. Safety and trust stories included calls to monitor AI agents in real time, agents caught cheating, a backdoored Anthropic extension on Cursor, and Africa's call for an AI off switch. Workplace and cultural friction showed up in a Dartmouth provost losing his job over AI use, a religious exemption from AI at work, psychics resisting chatbots, and Instagram's Adam Mosseri expecting AI negativity to worsen.",
+    "themes": [
+      "Local backlash against AI data centers",
+      "Market jitters over AI spending",
+      "US-China AI competition and rollouts",
+      "AI agent safety and security lapses",
+      "Growing public negativity toward AI"
+    ],
+    "episode_count": 4
+  }
+]
